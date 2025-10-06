@@ -240,14 +240,6 @@ We're building the future of web development, and we'd love your help!
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-## 🌟 **Star History**
-
-[![Star History Chart](https://api.star-history.com/svg?repos=holasoymalva/bird.dev&type=Date)](https://star-history.com/#holasoymalva/bird.dev&Date)
-
----
-
 ## 💬 **Community**
 - 🐛 **Issues**: [GitHub Issues](https://github.com/holasoymalva/bird.dev/issues)
 
